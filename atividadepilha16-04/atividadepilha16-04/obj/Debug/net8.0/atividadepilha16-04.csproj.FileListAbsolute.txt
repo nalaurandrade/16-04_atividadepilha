@@ -1,0 +1,14 @@
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.AssemblyInfo.cs
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\bin\Debug\net8.0\atividadepilha16-04.exe
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\bin\Debug\net8.0\atividadepilha16-04.deps.json
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\bin\Debug\net8.0\atividadepilha16-04.runtimeconfig.json
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\bin\Debug\net8.0\atividadepilha16-04.dll
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\bin\Debug\net8.0\atividadepilha16-04.pdb
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.dll
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\refint\atividadepilha16-04.dll
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.pdb
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\atividadepilha16-04.genruntimeconfig.cache
+C:\Users\anala\source\repos\atividadepilha16-04\atividadepilha16-04\obj\Debug\net8.0\ref\atividadepilha16-04.dll
